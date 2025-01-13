@@ -1,4 +1,4 @@
-# Product Filter and Search Functionality
+# Sortify
 
 ## Overview
 This project demonstrates a simple yet powerful implementation of **product filtering** and **search functionality** using HTML, CSS, and JavaScript. It allows users to:
@@ -12,7 +12,7 @@ This project demonstrates a simple yet powerful implementation of **product filt
 - **Responsive Design:** The layout is designed to work across various screen sizes.
 
 ## Live Demo
-[View Live Demo](https://dishadewangan.github.io/Filter-product/)
+[View Live Demo](https://dishadewangan.github.io/Sortify/)
 
 ## Technologies Used
 - HTML
